@@ -1,1 +1,3 @@
-sffe
+class A {
+
+}
